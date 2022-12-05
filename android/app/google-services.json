@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717539743601",
+    "project_id": "respectgram",
+    "storage_bucket": "respectgram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717539743601:android:d1120e4d81cbe7d57b08d0",
+        "android_client_info": {
+          "package_name": "ahmadelbaz.respectgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717539743601-hhcvqrm0md8gqqk0n26l9mlj1cnc78kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_0jD06k0TKwPVmZdJEBOIeHclvEG48VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717539743601-hhcvqrm0md8gqqk0n26l9mlj1cnc78kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
